@@ -1,0 +1,41 @@
+body{
+    background-color: darkslategrey;
+}
+
+h1{
+    color:antiquewhite;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    color:antiquewhite;
+    font-style: italic;
+    font-size: 40px;
+    
+}
+
+img{
+    
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.aboutMe{
+    color:antiquewhite;
+}
+
+.codeLangs{
+    color:antiquewhite;
+}
+
+.projects{
+    color:antiquewhite;
+    
+}
